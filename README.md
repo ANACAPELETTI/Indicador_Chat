@@ -7,7 +7,7 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-Site criado durante o desenvolvimento do bootcamp da [DIO](https://web.dio.me/track/8c4aa38f-7bc5-46ff-b302-baf78430852e), também fazendo parte do [Desafio 30 dias de CSS](https://github.com/SpruceGabriela/30diasDeCSS). Desenvolvido com a premissa de ser utilizado no meu futuro portfólio, onde ao clicar no botão do chat flutuante será redirecionado para um bate-papo comigo no WhatsApp.
+Site criado durante o desenvolvimento do bootcamp da [DIO](https://web.dio.me/track/8c4aa38f-7bc5-46ff-b302-baf78430852e), também fazendo parte do [Desafio 30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS). Desenvolvido com a premissa de ser utilizado no meu futuro portfólio, onde ao clicar no botão do chat flutuante será redirecionado para um bate-papo comigo no WhatsApp.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SpruceGabriela/30diasDeCSS/master/projects/dia_14/chatbot.gif">
